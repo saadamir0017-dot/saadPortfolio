@@ -2,55 +2,55 @@
   "carousel": [
     {
       "id": 1,
-      "src": "/assets/carousel1.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Frontend",
       "description": "Interactive interfaces in HTML, CSS and JavaScript."
     },
     {
       "id": 2,
-      "src": "/assets/carousel2.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Backend",
       "description": "APIs and server-side logic with Node and Python."
     },
     {
       "id": 3,
-      "src": "/assets/carousel3.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Design",
       "description": "Wireframes, prototypes and visual systems."
     },
     {
       "id": 4,
-      "src": "/assets/carousel4.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Mobile First",
       "description": "Layouts that work on any screen size."
     },
     {
       "id": 5,
-      "src": "/assets/carousel5.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Performance",
       "description": "Fast loads, smooth interactions."
     },
     {
       "id": 6,
-      "src": "/assets/carousel6.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Scale",
       "description": "Architecture built to grow."
     },
     {
       "id": 7,
-      "src": "/assets/carousel7.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Testing",
       "description": "Unit, integration and end-to-end coverage."
     },
     {
       "id": 8,
-      "src": "/assets/carousel8.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "Collaboration",
       "description": "Clear communication, on-time delivery."
     },
     {
       "id": 9,
-      "src": "/assets/carousel9.avif",
+      "src": "public/assets/carousel1.avif",
       "title": "New Tools",
       "description": "Always learning, always shipping."
     }
